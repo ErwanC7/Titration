@@ -4,6 +4,7 @@ vgcore.*
 *.gcno
 *.gcna
 *.a
+__pycache__
 
 # Binaries
 109titration
